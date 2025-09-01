@@ -9,6 +9,19 @@ Infrared (IR) search and track systems are widely applied in aerospace and defen
 </p>
 
 
+# Models
+Quantitative comparison of model complexity with open source models:
+
+|Methods   | FLOPs(G) | Params(M)   |
+|--------|-----|--------|
+| AGPCNet   | 172.86  | 12.36   |
+| UIU-Net   | 218.35  | 50.54   |
+| DNA-Net   | 56.68  | 4.70   |
+| IAANet   | 1730.03  | 19.72   |
+| ISTDU-Net   | 34.27  | 2.76   |
+| GCLNet   | 22.53  | 19.04   |
+| LSNet   | 24.46  | 2.18   |
+
 
 # Code
 The official repository of From Optimization to Network: A Low-Rank and Sparse-Aware Deep Unfolding Framework for Infrared Small Target Detection.
