@@ -13,7 +13,7 @@ Infrared (IR) search and track systems are widely applied in aerospace and defen
 # Code
 The official repository of From Optimization to Network: A Low-Rank and Sparse-Aware Deep Unfolding Framework for Infrared Small Target Detection.
   ```
-The key package has been provided.
+The key package has been provided. Once the paper is accepted, we will release all the codes publicly.
   ```
 
 # Contact
